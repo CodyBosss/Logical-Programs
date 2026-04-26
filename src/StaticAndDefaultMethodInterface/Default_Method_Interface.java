@@ -16,3 +16,4 @@ public class Default_Method_Interface implements Test{
 		dm.m2();
 	}
 }
+

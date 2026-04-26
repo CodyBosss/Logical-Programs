@@ -3,7 +3,7 @@ package JavaPrograms;
 public class FindOccurencesUsingString {
 	
 	public static void main(String [] args) {
-		String str = "Welcome to Pune and Welcome to Mumbai";
+		String str = "Welcome to Pune and Welcomes to Mumbai";
 		countOccurences(str);
 	}
 	

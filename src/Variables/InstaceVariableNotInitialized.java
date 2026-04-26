@@ -7,7 +7,7 @@ public class InstaceVariableNotInitialized {
 	int x;
 	double d;
 	boolean b;
-	String s;
+	String s;	
 	char c;
 	
 	int [] a;

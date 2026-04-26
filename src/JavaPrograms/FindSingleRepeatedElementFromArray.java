@@ -1,8 +1,5 @@
 package JavaPrograms;
 
-import java.util.HashSet;
-import java.util.Set;
-
 public class FindSingleRepeatedElementFromArray {
 
 	public static void main(String[] args) {
